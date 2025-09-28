@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a computer engineering student at the Univers
 - 🚀 Focused on improving every day and learning new technologies.
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/-Agustin%20Rodriguez%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-rodriguez-aguilar/)](https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-d%C3%ADaz-638961254/)
+[![LinkedIn](https://img.shields.io/badge/-Ivan%20González%20Díaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-d%C3%ADaz-638961254/)](https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-d%C3%ADaz-638961254/)
 
 ### Languages and Tools:
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
