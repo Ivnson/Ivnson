@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ivan 👋
 
-<!--
-**Ivnson/Ivnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a computer engineering student at the University of Huelva, with a strong interest in software architecture and cibersecurity.
 
-Here are some ideas to get you started:
+### About me:
+- 🎓 Computer Engineering student at the University of Huelva.
+- 👀 I have been interested in computer science for as long as I can remember.
+- 🚀 Focused on improving every day and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/-Agustin%20Rodriguez%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-rodriguez-aguilar/)](https://www.linkedin.com/in/iv%C3%A1n-gonz%C3%A1lez-d%C3%ADaz-638961254/)
+
+### Languages and Tools:
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
